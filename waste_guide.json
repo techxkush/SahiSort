@@ -1,0 +1,152 @@
+{
+    "guide_title": "Metro Solid Waste & Resource Recovery Handbook (2026 Edition)",
+    "jurisdiction": "Metro Municipal Solid Waste Authority (Single-Stream & Drop-Off)",
+    "version": "2026.2",
+    "last_updated": "2026-01-15",
+    "coverage_summary": "Covers household rigid plastics (#1, #2, #5), glass containers, clean paper/cardboard, metal cans, multi-layer beverage cartons, compostable organics, and household hazardous/e-waste.",
+    "unverified_scope": "Industrial chemicals, medical sharps, construction rubble, and unmarked composite bio-plastics.",
+    "passages": [
+        {
+        "id": "MG-PL-101",
+        "section": "Section 4.1 — Rigid Household Plastics (#1 PET, #2 HDPE, #5 PP)",
+        "page": 14,
+        "keywords": [
+            "plastic",
+            "bottle",
+            "jar",
+            "jug",
+            "tub",
+            "container",
+            "pet",
+            "hdpe",
+            "pp",
+            "polypropylene",
+            "beverage"
+        ],
+        "disposal_category": "Dry Recyclables (Blue Bin)",
+        "supported_materials": [
+            "pet",
+            "hdpe",
+            "pp",
+            "rigid plastic",
+            "plastic #1",
+            "plastic #2",
+            "plastic #5"
+        ],
+        "required_conditions": [
+            "Container must be empty, rinsed free of food residue, and dry.",
+            "Resin code must be #1 (PET), #2 (HDPE), or #5 (PP).",
+            "Black carbon-pigmented plastic is NOT accepted by optical sorters."
+        ],
+        "preparation_steps": [
+            "Empty all liquid or food residue completely.",
+            "Give a quick rinse and shake dry.",
+            "Replace plastic screw caps tightly onto the bottle before placing in the Blue Bin."
+        ],
+        "exceptions": "Black microwave trays, foam polystyrene (#6 EPS), and flexible film pouches must go to General Waste.",
+        "excerpt": "Clean rigid plastic bottles, tubs, and jugs bearing resin identification codes #1 (PET), #2 (HDPE), and #5 (PP) are accepted in curbside Dry Recyclables. Carbon-black plastics belong in General Waste."
+        },
+        {
+        "id": "MG-GL-201",
+        "section": "Section 5.2 — Culinary Glass Jars & Bottles",
+        "page": 21,
+        "keywords": [
+                        "glass",
+                        "jar",
+                        "bottle",
+                        "sauce",
+                        "jam",
+                        "beverage glass",
+                        "culinary glass",
+                        "mason"
+                        ],
+        "disposal_category": "Glass Drop-Off / Curbside Glass Crate",
+        "supported_materials": ["glass", "culinary glass", "soda-lime glass"],
+        "required_conditions": [
+                "Must be food or beverage packaging glass (clear, green, or amber).",
+                "Must not be heat-treated borosilicate (Pyrex), mirror, window glass, or ceramics."
+            ],
+        "preparation_steps": [
+            "Rinse jar or bottle clean; paper labels may remain attached.",
+            "Remove metal lids and recycle them separately in the Metal stream."
+        ],
+        "exceptions": "Drinking glasses, Pyrex bakeware, and lightbulbs contaminate glass cullet.",
+        "excerpt": "Clear, green, and amber food and beverage bottles and jars are 100% recyclable in the Glass stream. Separate metal lug caps into dry mixed recycling. Never include heat-resistant borosilicate glass."
+        },
+        {
+        "id": "MG-PA-301",
+        "section": "Section 3.1 — Corrugated Cardboard & Uncoated Paperboard",
+        "page": 9,
+        "keywords": [
+            "cardboard",
+            "box",
+            "paper",
+            "carton",
+            "paperboard",
+            "shipping box",
+            "pizza box"
+        ],
+        "disposal_category": "Clean Fiber & Cardboard (Blue Bin)",
+        "supported_materials": [
+            "cardboard",
+            "corrugated fiberboard",
+            "paperboard",
+            "paper"
+        ],
+        "required_conditions": [
+            "Material must be dry and free from soaked grease, oil, or food residue.",
+            "Must not have plastic film lamination or metallic foil coating."
+        ],
+        "preparation_steps": [
+            "Remove all inner plastic air pillows and foam inserts.",
+            "Flatten boxes completely to conserve collection capacity.",
+            "Tear off and compost or discard heavily greased sections (such as pizza box bottoms)."
+        ],
+        "exceptions": "Greasy paper and wax-coated produce boxes contaminate paper pulp.",
+        "excerpt": "Clean, dry corrugated cardboard and uncoated paperboard boxes belong in Clean Fiber recycling. Flatten all boxes. Tear off greasy sections before recycling."
+        },
+        {   
+        "id": "MG-EW-601",
+        "section": "Section 8.3 — Batteries, Cables & Small Electronics (E-Waste)",
+        "page": 35,
+        "keywords": [
+            "battery",
+            "lithium",
+            "charger",
+            "cable",
+            "electronics",
+            "phone",
+            "power bank",
+            "e-waste"
+        ],
+        "disposal_category": "Designated E-Waste & Hazardous Drop-Off",
+        "supported_materials": [
+            "lithium-ion",
+            "electronic components",
+            "copper wire",
+            "pvc insulation"
+        ],
+        "required_conditions": [
+            "Never place in curbside recycling or general waste bins due to severe lithium fire hazard."
+        ],
+        "preparation_steps": [
+            "Tape the terminals of lithium-ion and 9V batteries with clear non-conductive tape.",
+            "Deliver to a municipal E-Waste kiosk or retail take-back drop box."
+        ],
+        "exceptions": "Swollen or damaged lithium batteries must be placed in a non-flammable container with sand.",
+        "excerpt": "MANDATORY SAFETY RULE: Batteries, power banks, charging cords, and small electronics are strictly banned from curbside bins. Tape battery terminals and bring to an authorized E-Waste Drop-Off."
+        },
+        {
+        "id": "MG-MT-401",
+        "section": "Section 6.1 — Aluminum & Steel Food/Beverage Cans",
+        "page": 26,
+        "keywords": ["aluminum", "can", "tin", "steel", "soda can", "foil"],
+        "disposal_category": "Dry Recyclables — Metals (Blue Bin)",
+        "supported_materials": ["aluminum", "steel", "tinplate", "metal"],
+        "required_conditions": ["Container must be completely empty and rinsed."],
+        "preparation_steps": ["Empty contents and rinse food residue."],
+        "exceptions": "Pressurized aerosols and paint cans with wet residue are excluded.",
+        "excerpt": "Empty aluminum beverage cans, steel food tins, and clean aluminum foil balls are accepted in Dry Recyclables."
+        }
+    ]
+}
