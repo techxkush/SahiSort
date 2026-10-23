@@ -1,0 +1,326 @@
+:root {
+--bg-ivory: #FAF9F4;
+--surface-white: #FFFFFF;
+--surface-sage: #EDF4E8;
+--accent-leaf: #4D8B55;
+--accent-leaf-hover: #3E7345;
+--accent-spring: #A8D5A2;
+--highlight-lime: #E5F2B8;
+--warm-apricot: #F3C6A5;
+--text-charcoal: #29332B;
+--text-olive: #69736A;
+--border-stone: #E4E7DD;
+--danger-terracotta: #B84A39;
+--danger-bg: #FDF2F0;
+
+--font-serif: 'Fraunces', Georgia, serif;
+--font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+
+--max-width: 1200px;
+--radius-sm: 8px;
+--radius-md: 14px;
+--radius-lg: 22px;
+--shadow-soft: 0 10px 30px -10px rgba(41, 51, 43, 0.06);
+--shadow-focus: 0 0 0 3px rgba(77, 139, 85, 0.35);
+}
+
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+
+html,
+body {
+margin: 0;
+padding: 0;
+background-color: var(--bg-ivory);
+color: var(--text-charcoal);
+font-family: var(--font-sans);
+font-size: 16px;
+line-height: 1.6;
+-webkit-font-smoothing: antialiased;
+overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+.serif-heading {
+font-family: var(--font-serif);
+font-weight: 500;
+line-height: 1.18;
+letter-spacing: -0.02em;
+color: var(--text-charcoal);
+margin-top: 0;
+}
+
+p {
+margin-top: 0;
+color: var(--text-olive);
+}
+
+a {
+color: inherit;
+text-decoration: none;
+}
+
+button,
+input,
+textarea,
+select {
+font: inherit;
+}
+
+:focus-visible {
+outline: none;
+box-shadow: var(--shadow-focus);
+}
+
+.container {
+width: 100%;
+max-width: var(--max-width);
+margin: 0 auto;
+padding: 0 1.5rem;
+}
+
+.section-pad {
+padding: 4.5rem 0;
+}
+
+.surface-sage {
+background-color: var(--surface-sage);
+border-top: 1px solid var(--border-stone);
+border-bottom: 1px solid var(--border-stone);
+}
+
+.surface-card {
+background-color: var(--surface-white);
+border: 1px solid var(--border-stone);
+border-radius: var(--radius-md);
+padding: 1.75rem;
+box-shadow: var(--shadow-soft);
+}
+
+.site-header {
+position: sticky;
+top: 0;
+z-index: 50;
+background-color: rgba(250, 249, 244, 0.92);
+backdrop-filter: blur(10px);
+border-bottom: 1px solid var(--border-stone);
+}
+
+.nav-bar {
+display: flex;
+align-items: center;
+justify-content: space-between;
+height: 74px;
+gap: 1rem;
+}
+
+.brand-mark {
+display: inline-flex;
+align-items: center;
+gap: 0.65rem;
+font-family: var(--font-serif);
+font-size: 1.45rem;
+font-weight: 600;
+color: var(--text-charcoal);
+}
+
+.brand-dot {
+width: 28px;
+height: 28px;
+border-radius: 8px;
+background-color: var(--accent-leaf);
+color: var(--surface-white);
+display: inline-flex;
+align-items: center;
+justify-content: center;
+}
+
+.nav-links {
+display: flex;
+align-items: center;
+gap: 0.35rem;
+}
+
+.nav-link {
+padding: 0.5rem 0.9rem;
+border-radius: var(--radius-sm);
+font-size: 0.94rem;
+font-weight: 500;
+color: var(--text-olive);
+transition: background-color 0.18s ease, color 0.18s ease;
+}
+
+.nav-link:hover {
+color: var(--text-charcoal);
+background-color: var(--surface-sage);
+}
+
+.nav-link.active {
+color: var(--text-charcoal);
+background-color: var(--highlight-lime);
+font-weight: 600;
+}
+
+.mobile-menu-btn {
+display: none;
+background: var(--surface-white);
+border: 1px solid var(--border-stone);
+border-radius: var(--radius-sm);
+padding: 0.5rem;
+color: var(--text-charcoal);
+cursor: pointer;
+}
+
+.btn {
+display: inline-flex;
+align-items: center;
+justify-content: center;
+gap: 0.55rem;
+padding: 0.78rem 1.35rem;
+border-radius: var(--radius-sm);
+font-weight: 600;
+font-size: 0.95rem;
+border: 1px solid transparent;
+cursor: pointer;
+transition: all 0.18s ease;
+min-height: 44px;
+}
+
+.btn:disabled {
+opacity: 0.55;
+cursor: not-allowed;
+}
+
+.btn-primary {
+background-color: var(--accent-leaf);
+color: var(--surface-white);
+}
+
+.btn-primary:hover:not(:disabled) {
+background-color: var(--accent-leaf-hover);
+}
+
+.btn-secondary {
+background-color: var(--surface-white);
+color: var(--text-charcoal);
+border-color: var(--border-stone);
+}
+
+.btn-secondary:hover:not(:disabled) {
+background-color: var(--surface-sage);
+border-color: var(--accent-spring);
+}
+
+.btn-lime {
+background-color: var(--highlight-lime);
+color: var(--text-charcoal);
+border-color: var(--accent-spring);
+}
+
+.pill {
+display: inline-flex;
+align-items: center;
+gap: 0.38rem;
+padding: 0.28rem 0.75rem;
+border-radius: 999px;
+font-size: 0.78rem;
+font-weight: 600;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+.pill-verified {
+background-color: var(--highlight-lime);
+color: #214B27;
+border: 1px solid var(--accent-spring);
+}
+
+.pill-conditional {
+background-color: #FDF0E6;
+color: #7D441B;
+border: 1px solid var(--warm-apricot);
+}
+
+.pill-insufficient {
+background-color: #F2F3EE;
+color: var(--text-olive);
+border: 1px solid var(--border-stone);
+}
+
+.eyebrow {
+display: inline-block;
+font-size: 0.78rem;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.1em;
+color: var(--accent-leaf);
+margin-bottom: 0.65rem;
+}
+
+.grid-2 {
+display: grid;
+grid-template-columns: 1.12fr 0.88fr;
+gap: 2.75rem;
+align-items: center;
+}
+
+.grid-3 {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 1.5rem;
+}
+
+.still-life-stage {
+background: linear-gradient(145deg, #FFFFFF 0%, #EDF4E8 62%, #F3C6A5 140%);
+border: 1px solid var(--border-stone);
+border-radius: var(--radius-lg);
+padding: 2rem;
+position: relative;
+box-shadow: var(--shadow-soft);
+}
+
+.specimen-sheet {
+background-color: var(--bg-ivory);
+border: 1px solid var(--border-stone);
+border-radius: var(--radius-md);
+padding: 1.4rem;
+}
+
+.input-field,
+.textarea-field {
+width: 100%;
+background-color: var(--surface-white);
+border: 1px solid var(--border-stone);
+border-radius: var(--radius-sm);
+padding: 0.78rem 0.95rem;
+color: var(--text-charcoal);
+transition: border-color 0.15s ease;
+}
+
+.input-field:focus,
+.textarea-field:focus {
+border-color: var(--accent-leaf);
+}
+
+.evidence-excerpt {
+background-color: var(--bg-ivory);
+border-left: 4px solid var(--accent-leaf);
+padding: 1rem 1.25rem;
+border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+font-family: var(--font-serif);
+font-style: italic;
+color: var(--text-charcoal);
+margin: 0.75rem 0;
+}
+
+.site-footer {
+background-color: var(--surface-white);
+border-top: 1px solid var(--border-stone);
+padding: 3.5rem 0 2.5rem;
+margin-top: 4rem;
+}
