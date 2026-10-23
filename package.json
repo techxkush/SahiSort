@@ -1,0 +1,15 @@
+{
+  "name": "wastewise",
+  "version": "1.0.0",
+  "description": "WasteWise — AI-Powered Waste Identification, Local Disposal, and Creative Reuse Platform",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["waste", "sustainability", "recycling", "upcycling", "gemini-ai"],
+  "author": "WasteWise Team",
+  "license": "ISC"
+}

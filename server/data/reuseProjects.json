@@ -1,0 +1,470 @@
+[
+  {
+    "id": "proj-bottle-hanging-planter",
+    "itemMatch": ["plastic bottle", "water bottle", "pet bottle", "soda bottle"],
+    "title": "Hanging Herb Planter",
+    "subtitle": "Convert a standard PET bottle into an airy hanging vertical planter",
+    "difficulty": "Easy",
+    "estimatedTime": "20 min",
+    "purpose": "Garden",
+    "materials": [
+      "1 clean plastic bottle (1L or 2L works best)",
+      "Potting soil (approx. 2 cups)",
+      "Small herb seedling (mint, basil, or succulents)",
+      "2 meters of sturdy natural jute twine or nylon cord"
+    ],
+    "tools": [
+      "Household craft scissors or utility craft knife",
+      "Hole punch or nail/skewer for drainage holes",
+      "Marker pen"
+    ],
+    "safetyNotes": "Take care when piercing or cutting plastic. Adult supervision recommended when using utility blades or heated skewers. Smooth any sharp cut edges with sandpaper or cover with paper masking tape.",
+    "finishedResult": {
+      "name": "Suspended Botanical Planter",
+      "description": "A stylish, functional hanging planter that saves counter space and provides ideal root aeration and drainage for herbs.",
+      "benefits": ["Diverts single-use plastic", "Zero-cost herb container", "Compact vertical footprint"]
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Wash and Prepare",
+        "instruction": "Peel off the paper label and soak in warm soapy water to dissolve adhesive. Rinse the interior thoroughly and allow it to dry completely.",
+        "tool": "Warm water & soap",
+        "safetyTip": "Ensure all sugary or sticky residue is removed to prevent mold."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Mark the Cut Line",
+        "instruction": "Using your marker pen, draw a gentle horizontal cutting line about 10–12 cm from the bottom of the bottle. If you prefer a pocket planter, draw an oval window on one side.",
+        "tool": "Marker pen",
+        "safetyTip": "Keep the line even all the way around for a neat rim."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Carefully Cut the Plastic",
+        "instruction": "Puncture the marked line carefully, then use scissors to follow the outline around the perimeter. Trim off any jagged plastic spurs.",
+        "tool": "Scissors or craft knife",
+        "safetyTip": "Cut away from your body on a firm flat surface."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Create Drainage & Suspension Holes",
+        "instruction": "Make 3 small drainage holes in the bottom base using a nail or skewer. Then punch two opposing holes 1 cm below the top rim for hanging cords.",
+        "tool": "Skewer or hole punch",
+        "safetyTip": "Keep holes balanced so the planter hangs level."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Thread the Hanging Cord",
+        "instruction": "Cut two equal lengths of twine (approx. 80 cm each). Thread through the rim holes, knotting securely on the inside with a double knot. Gather strings at the top into an overhead loop.",
+        "tool": "Jute twine",
+        "safetyTip": "Test the knots with a gentle tug to ensure they hold soil weight."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Plant Your Herbs",
+        "instruction": "Add a few small pebbles at the bottom for drainage, fill 3/4 with potting soil, plant your herb, and water lightly. Hang in a sunny window or balcony.",
+        "tool": "Potting soil & plant",
+        "safetyTip": "Place a saucer underneath when watering indoors to catch drips."
+      }
+    ]
+  },
+  {
+    "id": "proj-bottle-self-watering",
+    "itemMatch": ["plastic bottle", "water bottle", "pet bottle", "soda bottle"],
+    "title": "Self-Watering Sub-Irrigation Planter",
+    "subtitle": "A capillary-wicking plant pot that keeps indoor plants watered for weeks",
+    "difficulty": "Medium",
+    "estimatedTime": "30 min",
+    "purpose": "Garden",
+    "materials": [
+      "1 plastic bottle (1.5L or 2L clear plastic)",
+      "100% cotton yarn, string, or strip of cotton cloth (approx. 25 cm)",
+      "Potting mix",
+      "Small plant or seeds",
+      "Water"
+    ],
+    "tools": [
+      "Scissors or craft blade",
+      "Nail or small drill bit (for cap hole)",
+      "Ruler & marker"
+    ],
+    "safetyNotes": "Be careful when perforating the plastic cap. Rest the cap on a wooden board rather than holding it in your palm.",
+    "finishedResult": {
+      "name": "Sub-Irrigated Self-Watering Pot",
+      "description": "Utilizes capillary action to draw water up from the lower reservoir directly to plant roots as needed, preventing root rot and underwatering.",
+      "benefits": ["Low maintenance watering", "Transparent water level gauge", "Ideal for desktop succulents and basil"]
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Mark the Midpoint",
+        "instruction": "Clean the bottle. Measure roughly halfway down the bottle (about 12 cm from the top spout) and draw a line encircling the body.",
+        "tool": "Ruler & marker",
+        "safetyTip": "Wipe dry so your pen line doesn't smear."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Cut into Two Sections",
+        "instruction": "Carefully cut along the line to produce two parts: an inverted funnel top section and a cup-like bottom reservoir section.",
+        "tool": "Craft knife or sharp scissors",
+        "safetyTip": "Smooth cut edges with a quick rub of fine sandpaper."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Perforate the Bottle Cap",
+        "instruction": "Make a 5mm hole through the center of the bottle cap using a drill or heated nail.",
+        "tool": "Nail / craft drill",
+        "safetyTip": "Never drill toward your fingers; clamp the cap securely."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Insert the Cotton Wick",
+        "instruction": "Thread your cotton string through the cap hole so that 10 cm dangles into the reservoir, with the remaining 15 cm extending into the top funnel.",
+        "tool": "Cotton yarn",
+        "safetyTip": "Synthetic cords like polyester do not wick water; use 100% cotton."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Assemble & Add Soil",
+        "instruction": "Invert the funnel piece neck-down into the bottom base. Fill with moist potting mix, keeping the cotton wick positioned upright through the center of the soil.",
+        "tool": "Potting mix",
+        "safetyTip": "Pack soil gently around the wick without crimping it."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Fill Reservoir & Plant",
+        "instruction": "Lift the top section, fill the bottom reservoir halfway with water, and reseat the funnel. Plant your seedling and watch the wick maintain perfect moisture.",
+        "tool": "Water & seedling",
+        "safetyTip": "Refill reservoir whenever water drops below 2 cm."
+      }
+    ]
+  },
+  {
+    "id": "proj-cardboard-desk-organizer",
+    "itemMatch": ["cardboard box", "corrugated box", "shipping box", "cereal box", "delivery box"],
+    "title": "Modular Tiered Desk Organizer",
+    "subtitle": "Organize pens, notebooks, sticky notes, and cables with clean geometric compartments",
+    "difficulty": "Easy",
+    "estimatedTime": "25 min",
+    "purpose": "Desk",
+    "materials": [
+      "1 or 2 clean cardboard shipping boxes or cereal boxes",
+      "PVA craft glue, double-sided tape, or hot glue sticks",
+      "Kraft paper, newspaper wrapping, or left-over wallpaper for lining"
+    ],
+    "tools": [
+      "Ruler or set-square",
+      "Utility knife or heavy-duty scissors",
+      "Pencil",
+      "Cutting mat"
+    ],
+    "safetyNotes": "Always cut against a metal ruler using a sharp blade on a non-slip cutting mat. Cut in multiple light passes rather than forcing a heavy stroke.",
+    "finishedResult": {
+      "name": "Architectural Desktop Storage Console",
+      "description": "A sturdy, bespoke multi-compartment organizer with graduated slot heights tailored for stationery and tech essentials.",
+      "benefits": ["Cleans cluttered workspace", "Zero plastic used", "Fully customizable slot dimensions"]
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Disassemble and Flatten",
+        "instruction": "Carefully separate the glue joints of your cardboard box to lay it flat, inspecting the fluting for structural integrity.",
+        "tool": "Hands / utility knife",
+        "safetyTip": "Keep the fluting parallel to the vertical face for maximum strength."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Cut Base and Outer Walls",
+        "instruction": "Measure and cut a base rectangle (20 cm x 15 cm). Cut outer walls: back wall (14 cm high), side walls angled from 14 cm down to 6 cm, and front wall (6 cm high).",
+        "tool": "Ruler & pencil",
+        "safetyTip": "Double check right angles with a square edge."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Fabricate Internal Dividers",
+        "instruction": "Cut internal partition walls with interlocking half-slots (comb joints) so they interlock securely without needing bulky brackets.",
+        "tool": "Utility blade",
+        "safetyTip": "Slots should match cardboard thickness exactly for a snug fit."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Wrap with Decorative Paper (Optional)",
+        "instruction": "Cover individual panels with plain kraft paper or repurposed newspaper pages using diluted PVA glue for a clean minimalist aesthetic.",
+        "tool": "PVA glue & brush",
+        "safetyTip": "Allow paper to dry flat between heavy books to avoid warping."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Assemble with Adhesive",
+        "instruction": "Apply a neat bead of craft glue along all edges, assemble the perimeter around the base, and clamp with binder clips or rubber bands while drying.",
+        "tool": "Craft glue & binder clips",
+        "safetyTip": "Wipe away glue squeeze-out with a damp cloth."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Insert Partitions & Fill",
+        "instruction": "Slide the divider grid into place. Once fully set (approx. 15 minutes), load your pens, phones, cards, and stationery.",
+        "tool": "Stationery items",
+        "safetyTip": "Enjoy a clean, clutter-free productivity setup!"
+      }
+    ]
+  },
+  {
+    "id": "proj-cardboard-cable-box",
+    "itemMatch": ["cardboard box", "shoe box", "shipping box"],
+    "title": "Minimalist Cable Management Hub",
+    "subtitle": "Conceal power strips, tangled cords, and bulky chargers in a ventilated neat box",
+    "difficulty": "Easy",
+    "estimatedTime": "15 min",
+    "purpose": "Home",
+    "materials": [
+      "1 sturdy shoebox or cardboard delivery box with lid",
+      "Masking tape or paper washi tape",
+      "Power strip & chargers to store"
+    ],
+    "tools": [
+      "Craft knife",
+      "Pencil",
+      "Small circular object (coin or bottle cap) to trace wire ports"
+    ],
+    "safetyNotes": "Do not overload the power strip. Ensure cutouts provide ample cross-ventilation so heat does not accumulate inside the box. Never place frayed wires inside.",
+    "finishedResult": {
+      "name": "Streamlined Charging Station",
+      "description": "Hides unsightly cable tangles while keeping phone and tablet charging leads accessible through clean top ports.",
+      "benefits": ["Eliminates visual wire mess", "Prevents tripping hazards", "Keeps pet paws away from plugs"]
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Size the Power Strip",
+        "instruction": "Place your multi-outlet power strip inside the box. Mark the position where the main power cord enters one of the narrow ends.",
+        "tool": "Pencil",
+        "safetyTip": "Ensure at least 3 cm clearance around plug bricks."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Cut Cord Entry & Exit Ports",
+        "instruction": "Cut a 2 cm vertical slot or circular hole on the short side for the main wall cord. Trace 4–5 circular holes along the front or lid for individual charging cables.",
+        "tool": "Craft knife",
+        "safetyTip": "Always cut into a waste backing piece to protect table surfaces."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Cut Ventilation Slits",
+        "instruction": "Cut several neat 5 mm horizontal ventilation slits along the top rear wall to allow convective airflow and heat dissipation.",
+        "tool": "Ruler & knife",
+        "safetyTip": "Ventilation is essential for charger longevity."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Reinforce Port Edges",
+        "instruction": "Line the perimeter of each hole with paper tape or washi tape to prevent cardboard wear and provide a finished look.",
+        "tool": "Washi tape",
+        "safetyTip": "Smooth down edges firmly."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Route Cables and Close Lid",
+        "instruction": "Plug the strip into the wall, thread phone cords out through their designated ports, and place the lid on top. Label each cable if desired.",
+        "tool": "Phone cables",
+        "safetyTip": "Keep the top lid flat and free of heavy clutter."
+      }
+    ]
+  },
+  {
+    "id": "proj-jar-terrarium",
+    "itemMatch": ["glass jar", "jam jar", "mason jar", "pickle jar", "glass bottle"],
+    "title": "Closed Ecosystem Glass Terrarium",
+    "subtitle": "Create a lush, self-sustaining tropical moss and foliage biome inside a recycled jar",
+    "difficulty": "Medium",
+    "estimatedTime": "30 min",
+    "purpose": "Home",
+    "materials": [
+      "1 clean clear glass jar with lid (jam, pickle, or coffee jar)",
+      "Small gravel or aquarium pebbles (approx. 1/2 cup)",
+      "Activated charcoal or crushed barbecue charcoal (1 tablespoon)",
+      "Sheet moss or garden moss",
+      "Small moisture-loving tropical plant (Fittonia or baby fern)",
+      "Peat-free potting soil (approx. 1 cup)",
+      "Spray bottle with water"
+    ],
+    "tools": [
+      "Long spoon or kitchen tongs",
+      "Paper funnel or rolled paper cone"
+    ],
+    "safetyNotes": "Inspect the glass jar lip for micro-chips or fractures. Never use damaged glass containers.",
+    "finishedResult": {
+      "name": "Microclimate Bio-Terrarium",
+      "description": "A self-contained water cycle where plant respiration condenses on the glass and trickles back down, requiring watering only once every several months.",
+      "benefits": ["Zero water maintenance", "Living art centerpiece", "Brings green life to work desks"]
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Sanitize and Polish the Glass",
+        "instruction": "Scrub the jar with hot water and dish soap to remove all food residues. Dry thoroughly with a microfiber cloth so the glass is crystal clear.",
+        "tool": "Warm water & towel",
+        "safetyTip": "Do not use harsh chemical cleaners that could harm delicate moss."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Add False Drainage Layer",
+        "instruction": "Pour a 2 cm layer of small pebbles or gravel into the base. This provides a water catchment basin so plant roots never sit in standing water.",
+        "tool": "Small pebbles",
+        "safetyTip": "Pour gently to avoid cracking the bottom glass."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Add Activated Charcoal Layer",
+        "instruction": "Sprinkle a thin layer of crushed activated charcoal over the gravel. Charcoal naturally absorbs toxins and prevents anaerobic odors in closed biomes.",
+        "tool": "Charcoal & spoon",
+        "safetyTip": "Keep charcoal dust away from your eyes."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Add Soil Medium",
+        "instruction": "Use a rolled paper funnel to pour 3–4 cm of well-draining soil, creating gentle contours with higher elevation at the back for visual depth.",
+        "tool": "Paper funnel & spoon",
+        "safetyTip": "Avoid dirtying the inner glass walls."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Plant Moss and Miniature Flora",
+        "instruction": "Using tongs or chopsticks, make a small depression, insert the plant roots, and press down. Tuck fresh green moss pillows around the exposed soil.",
+        "tool": "Tongs / chopsticks",
+        "safetyTip": "Handle delicate roots gently."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Mist, Seal, and Position",
+        "instruction": "Give 3 to 4 gentle spritzes of misted water onto the moss. Wipe any internal moisture streaks, screw the lid on tightly, and place in bright, indirect sunlight.",
+        "tool": "Spray bottle & lid",
+        "safetyTip": "Avoid direct intense sunlight which can overheat the miniature greenhouse."
+      }
+    ]
+  },
+  {
+    "id": "proj-can-desk-caddy",
+    "itemMatch": ["aluminum can", "tin can", "metal can", "soda can"],
+    "title": "Rustic Textured Stationery Caddy",
+    "subtitle": "Transform a discarded metal can into an industrial or boho desk pen holder",
+    "difficulty": "Easy",
+    "estimatedTime": "15 min",
+    "purpose": "Desk",
+    "materials": [
+      "1 clean soup, coffee, or soda can (cleaned, label stripped)",
+      "Jute twine, yarn, or fabric scrap",
+      "PVA glue or craft glue"
+    ],
+    "tools": [
+      "Can opener with smooth-edge mechanism (if lid not removed)",
+      "Pliers to crimp any internal burrs",
+      "Scissors"
+    ],
+    "safetyNotes": "IMPORTANT: Metal edges can be sharp. Use pliers to flatten any interior metal rim spurs, or apply a strip of cloth tape or hot glue over the inner lip before decorating.",
+    "finishedResult": {
+      "name": "Artisan Desk Organizer Caddy",
+      "description": "A durable, weighted desk container that prevents tall scissors, paintbrushes, and markers from tipping over.",
+      "benefits": ["Stable heavy base", "Prevents landfill waste", "Charming organic texture"]
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Clean and Deburr Rim",
+        "instruction": "Soak in hot soapy water to remove label. Use flat-nose pliers to press down any sharp metal lip left behind by the factory can opener.",
+        "tool": "Pliers & warm water",
+        "safetyTip": "Run a cotton pad around the rim; if fibers catch, crimp further."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Apply Rim Protection",
+        "instruction": "Fold a narrow strip of masking tape or hot glue over the top lip to ensure complete tactile safety for daily use.",
+        "tool": "Masking tape",
+        "safetyTip": "Ensure total rim smoothness before handing to children."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Begin Base Wrap",
+        "instruction": "Apply a dab of craft glue at the bottom rim, anchor your twine end, and begin wrapping tightly around the can circumference.",
+        "tool": "Craft glue & twine",
+        "safetyTip": "Keep tension even as you spin the can."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Wrap Toward Rim",
+        "instruction": "Continue winding cords tightly in neat parallel rows, dotting small spots of glue every four rows to prevent slipping.",
+        "tool": "Twine & fingers",
+        "safetyTip": "Push rows together tightly for zero metal showing through."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Secure Top End & Finish",
+        "instruction": "Once you reach the top edge, tuck the tail under the last loop, add a final drop of glue, and snip excess cleanly.",
+        "tool": "Scissors",
+        "safetyTip": "Let cure for 10 minutes before loading."
+      }
+    ]
+  },
+  {
+    "id": "proj-coffee-cup-seedling",
+    "itemMatch": ["takeaway coffee cup", "coffee cup", "paper cup"],
+    "title": "Window Sill Seed Starter Pots",
+    "subtitle": "Give plastic-lined takeaway cups a second productive cycle before landfill disposal",
+    "difficulty": "Easy",
+    "estimatedTime": "10 min",
+    "purpose": "Garden",
+    "materials": [
+      "1 or more rinsed takeaway coffee cups",
+      "Seed starting soil or compost mix",
+      "Vegetable, flower, or herb seeds (tomatoes, peppers, basil)",
+      "Pencil to label varieties"
+    ],
+    "tools": [
+      "Pen or scissors to make drainage holes"
+    ],
+    "safetyNotes": "Rinse out all milk residue immediately after use to avoid sour odors or fungal mold growth.",
+    "finishedResult": {
+      "name": "Biodegradable Nursery Starting Pot",
+      "description": "The waterproof polyethylene lining keeps moisture retained during delicate seedling germination without leaking onto window sills.",
+      "benefits": ["Zero cost seed nursery", "Deep root capacity", "Easy transplanting by tearing side"]
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Rinse and Dry Thoroughly",
+        "instruction": "Wash the cup interior with warm soapy water to clear dairy, sugar, and coffee oils. Allow to air dry in the sun.",
+        "tool": "Soap & warm water",
+        "safetyTip": "Ensure cup is completely fresh and dry."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Puncture Drainage Holes",
+        "instruction": "Turn the cup upside down on a cutting board. Use the tip of a pencil or scissor blade to pierce 3 small drainage holes in the recessed bottom.",
+        "tool": "Pencil or scissors",
+        "safetyTip": "Keep hands clear of the puncture zone."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Fill with Seedling Mix",
+        "instruction": "Spoon light seed-starter compost into the cup until it is 2 cm below the top rim. Tap the base lightly on the table to settle soil.",
+        "tool": "Spoon & soil",
+        "safetyTip": "Do not compact soil too tightly; seedlings need fluffy soil."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Sow Seeds and Water",
+        "instruction": "Drop 2 to 3 seeds into the center, cover with 5 mm of fine soil, and water gently with a spray bottle. Write the seed variety and date on the cup side.",
+        "tool": "Seeds & marker",
+        "safetyTip": "Place on a plastic plate or tray to catch drainage."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Transplanting Tip",
+        "instruction": "Once seedlings develop their second set of true leaves, simply slit the paper cup down the side to pop the root ball directly into your garden without root shock.",
+        "tool": "Scissors",
+        "safetyTip": "Dispose of the separated cup in general waste after transplanting."
+      }
+    ]
+  }
+]

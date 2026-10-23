@@ -1,0 +1,612 @@
+{
+  "guideMetadata": {
+    "title": "Municipal Comprehensive Waste & Resource Recovery Guidelines",
+    "edition": "2025-2026 Official Community Edition",
+    "jurisdiction": "Metro Regional Waste & Resource Management Authority",
+    "authority": "Department of Resource Recovery & Environmental Stewardship",
+    "effectiveDate": "January 1, 2025",
+    "documentId": "REG-ENV-2025-W88",
+    "summary": "Authoritative municipal sorting rules, contamination prevention protocols, and resource recovery directives for residential and commercial streams."
+  },
+  "categories": [
+    {
+      "id": "recycling_blue",
+      "name": "Blue Cart — Containers & Mixed Recycling",
+      "color": "blue",
+      "badgeColor": "bg-blue-50 text-blue-800 border-blue-200",
+      "icon": "recycle",
+      "binType": "Blue Recycling Cart",
+      "description": "Clean, rigid plastics (#1, #2, #5), metal cans, foil containers, and paper-based dry packaging without food contamination.",
+      "accepted": [
+        "PET Plastic bottles (#1) and jugs (clean & empty)",
+        "HDPE bottles and jugs (#2) such as milk jugs and shampoo bottles",
+        "PP food tubs and containers (#5)",
+        "Aluminum beverage cans and clean foil trays",
+        "Steel and tin soup cans (rinsed)",
+        "Clean cardboard and paperboard packaging",
+        "Newspapers, magazines, office paper, clean paper bags",
+        "Clean cardboard boxes (flattened)"
+      ],
+      "notAccepted": [
+        "Plastic bags and stretch wrap (depot only)",
+        "Polystyrene / Styrofoam foam packaging (depot only)",
+        "Dirty or greasy paper / food-stained pizza boxes",
+        "Metallized chip bags and multi-layer snack pouches",
+        "Single-use coffee cups with polyethylene plastic lining",
+        "Glass bottles and jars (use Yellow Glass bin or return-it depot)",
+        "Batteries, electronics, hazardous chemicals"
+      ],
+      "generalPreparationSteps": [
+        "Empty all liquid and residue completely.",
+        "Quickly rinse food containers — items must be clean and free of significant residue.",
+        "Replace plastic bottle caps tightly back on the bottle (do not discard caps loose).",
+        "Flatten all corrugated cardboard and paperboard to maximize bin space.",
+        "Do not bag recyclables in plastic garbage bags — place items loose in the cart."
+      ]
+    },
+    {
+      "id": "organics_green",
+      "name": "Green Cart — Organics & Food Scraps",
+      "color": "green",
+      "badgeColor": "bg-emerald-50 text-emerald-800 border-emerald-200",
+      "icon": "apple",
+      "binType": "Green Organics Cart",
+      "description": "All food scraps, peelings, spoiled leftovers, and 100% uncoated food-soiled paper products and yard trimmings.",
+      "accepted": [
+        "Fruit and vegetable scraps and peelings",
+        "Meat, poultry, bones, fish, shellfish shells",
+        "Dairy products, cheese, butter, bread, grains, pasta",
+        "Coffee grounds and unbleached paper coffee filters",
+        "Greasy pizza boxes (top and bottom uncoated cardboard stained with grease/oil)",
+        "Food-soiled paper napkins, unlined paper towels, and tissue paper",
+        "Eggshells and nut shells",
+        "Yard trimmings, leaves, small branches (under 3 inches diameter)"
+      ],
+      "notAccepted": [
+        "Plastic bags (even if labeled 'biodegradable' or 'oxo-degradable' unless BPI certified)",
+        "Plastic-lined coffee cups or plastic soup containers",
+        "Foil, metal, glass, or plastic wrappers",
+        "Pet feces or cat litter (unless authorized under separate local municipal pilot)",
+        "Diapers, wipes, sanitary products",
+        "Treated lumber, painted wood"
+      ],
+      "generalPreparationSteps": [
+        "Remove all stickers, plastic labels, produce twist ties, and plastic clips before placing in bin.",
+        "Do not use conventional plastic bags — wrap wet scraps in newspaper or BPI-certified compostable liner.",
+        "Drain excessive liquid prior to composting.",
+        "Keep bin lid tightly closed to prevent wildlife access."
+      ]
+    },
+    {
+      "id": "glass_yellow",
+      "name": "Yellow Bin — Glass Bottles & Jars",
+      "color": "amber",
+      "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+      "icon": "wine",
+      "binType": "Yellow Glass Bin / Curbside Glass Box",
+      "description": "Clear and colored glass bottles and jars kept separate to prevent broken glass shards from contaminating paper and cardboard recycling streams.",
+      "accepted": [
+        "Clear and amber glass beverage bottles (non-deposit)",
+        "Glass jam, sauce, and condiment jars",
+        "Glass spice jars and cosmetic glass jars"
+      ],
+      "notAccepted": [
+        "Drinking glasses, wine glasses, or crystal",
+        "Ceramics, porcelain, cookware, Pyrex, heat-resistant glass",
+        "Window panes, mirrors, automotive glass",
+        "Light bulbs or fluorescent tubes (hazardous depot)"
+      ],
+      "generalPreparationSteps": [
+        "Empty all liquid and residue completely.",
+        "Rinse jar or bottle cleanly.",
+        "Remove metal or plastic lids — place metal lids loose in Blue Cart; discard plastic lids in General Waste unless specifically marked #1, #2, #5.",
+        "Paper labels can remain on the glass."
+      ]
+    },
+    {
+      "id": "general_waste_black",
+      "name": "Black/Gray Cart — General Waste & Landfill",
+      "color": "stone",
+      "badgeColor": "bg-stone-100 text-stone-800 border-stone-300",
+      "icon": "trash-2",
+      "binType": "Black/Gray Landfill Cart",
+      "description": "Non-recyclable materials, multi-material laminated packaging that cannot be separated, contaminated items, and composite waste.",
+      "accepted": [
+        "Takeaway paper coffee cups and cold beverage cups with plastic (PE) lining",
+        "Multi-layer snack packets, chip bags, candy wrappers, foil juice pouches",
+        "Toothpaste tubes, squeeze lotion tubes with mixed polymer layers",
+        "Wax-coated paper boxes and foil-laminated wrapping paper",
+        "Dirty plastic wraps, cellophane, heavily contaminated packaging",
+        "Broken ceramics, drinking glasses, mirrors",
+        "Used hygiene items, wet wipes, dental floss, synthetic sponges"
+      ],
+      "notAccepted": [
+        "Recyclable rigid plastic containers (#1, #2, #5)",
+        "Clean cardboard and paper",
+        "Compostable food scraps and clean garden waste",
+        "Household hazardous waste, chemicals, paints, solvents",
+        "Batteries of any type",
+        "Electronic waste and small appliances"
+      ],
+      "generalPreparationSteps": [
+        "Ensure all contents are bagged securely to prevent litter and odor.",
+        "Verify that no recyclable paper, cardboard, or compostable food scraps are mixed in.",
+        "Never place batteries or electronics in general waste due to landfill fire danger."
+      ]
+    },
+    {
+      "id": "hazardous_depot",
+      "name": "Hazardous Waste Depot & Specialized Drop-off",
+      "color": "red",
+      "badgeColor": "bg-rose-50 text-rose-800 border-rose-200",
+      "icon": "alert-triangle",
+      "binType": "Certified Eco-Depot / Hazardous Waste Facility",
+      "description": "Toxic, flammable, corrosive, reactive, or dangerous materials requiring specialized handling to protect sanitation workers and groundwater.",
+      "accepted": [
+        "All batteries (Lithium-ion, Alkaline, NiCd, Lead-acid, button cells)",
+        "Household chemicals, bleach, ammonia, drain cleaners",
+        "Paint cans, thinners, varnishes, aerosol spray cans with propellant",
+        "Motor oil, automotive fluids, antifreeze, brake fluids",
+        "Pesticides, herbicides, fertilizers, pool chemicals",
+        "Fluorescent light tubes, compact fluorescent bulbs (CFLs)",
+        "Expired prescription medications and sharps (in certified sharps containers)"
+      ],
+      "notAccepted": [
+        "Conventional household garbage or recycling",
+        "Commercial industrial explosives or radioactive material (special licensing required)"
+      ],
+      "generalPreparationSteps": [
+        "Keep substances in their original containers with legible manufacturer warning labels.",
+        "Never mix chemicals together.",
+        "Tape both terminals of lithium-ion and 9V batteries with clear packing tape to prevent short circuits and thermal fires during transport.",
+        "Transport upright inside a leak-proof container in your vehicle trunk."
+      ]
+    },
+    {
+      "id": "electronics_depot",
+      "name": "E-Waste / Electronics Recovery Depot",
+      "color": "purple",
+      "badgeColor": "bg-purple-50 text-purple-800 border-purple-200",
+      "icon": "cpu",
+      "binType": "Authorized Electronic Recycling Depot",
+      "description": "Consumer electronics, wiring, circuit boards, appliances, and accessories containing valuable metals and hazardous solder components.",
+      "accepted": [
+        "Mobile phones, tablets, laptops, computers, monitors",
+        "Power adapters, charging cords, USB cables, headphones",
+        "Small kitchen appliances (toasters, blenders, coffee makers)",
+        "Printers, keyboards, computer mice, electronic toys"
+      ],
+      "notAccepted": [
+        "Single-use alkaline batteries (take to battery drop-off)",
+        "Large commercial industrial machinery"
+      ],
+      "generalPreparationSteps": [
+        "Wipe personal data where applicable.",
+        "Remove detachable rechargeable batteries and recycle them in the designated battery bin at the depot.",
+        "Bundle cords neatly."
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "id": "RULE-PET-BOTTLE",
+      "keywords": ["plastic water bottle", "plastic bottle", "pet bottle", "soda bottle", "beverage bottle", "water bottle"],
+      "itemCanonical": "Plastic Beverage Bottle (PET #1)",
+      "material": "Polyethylene Terephthalate (PET #1)",
+      "condition": "Clean & empty",
+      "category": "recycling_blue",
+      "categoryName": "Blue Cart — Containers & Mixed Recycling",
+      "supportingSection": "Section 4.1: Rigid Plastics & Beverage Containers",
+      "pageNumber": 12,
+      "exactQuote": "All clear and tinted rigid plastic bottles marked with resin identification code #1 (PET) are accepted in the Blue Recycling Cart. Bottles must be thoroughly emptied of liquid and rinsed lightly. Plastic screw caps should be screwed tightly back onto the bottle to prevent separation during mechanical sorting.",
+      "preparationSteps": [
+        "Empty all liquid completely.",
+        "Rinse with cold water to remove any sticky beverage residue.",
+        "Screw the plastic cap tightly back onto the bottle.",
+        "Place loose into the Blue Cart (do not place inside a plastic grocery bag)."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": null
+      }
+    },
+    {
+      "id": "RULE-ALUMINUM-CAN",
+      "keywords": ["aluminum can", "soda can", "beer can", "beverage can", "tin can", "metal can"],
+      "itemCanonical": "Aluminum Beverage Can",
+      "material": "Aluminum alloy",
+      "condition": "Empty",
+      "category": "recycling_blue",
+      "categoryName": "Blue Cart — Containers & Mixed Recycling",
+      "supportingSection": "Section 4.3: Metal Containers & Beverage Cans",
+      "pageNumber": 15,
+      "exactQuote": "Aluminum beverage containers are infinitely recyclable and must be placed in the Blue Recycling Cart or returned to an authorized Return-It Beverage Depot for deposit refund. Cans must be empty; crushing cans is optional but recommended to conserve bin space.",
+      "preparationSteps": [
+        "Empty all beverage contents completely.",
+        "Lightly rinse out sugar residue.",
+        "Leave the pull tab attached or inside.",
+        "Deposit loose in the Blue Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "low",
+        "warning": "Be careful of sharp metal edges if cutting aluminum cans for DIY projects."
+      }
+    },
+    {
+      "id": "RULE-GLASS-BOTTLE",
+      "keywords": ["glass bottle", "glass beverage bottle", "beer bottle", "wine bottle", "glass condiment bottle"],
+      "itemCanonical": "Glass Beverage / Condiment Bottle",
+      "material": "Soda-lime Glass",
+      "condition": "Empty and rinsed",
+      "category": "glass_yellow",
+      "categoryName": "Yellow Bin — Glass Bottles & Jars",
+      "supportingSection": "Section 6.2: Glass Packaging Regulations",
+      "pageNumber": 24,
+      "exactQuote": "Glass containers must never be placed inside the Blue Cart with paper and plastics, as broken shards permanently contaminate fiber pulp streams. Clean glass bottles and jars must be segregated into the Yellow Glass Bin or taken directly to community glass drop-off stations.",
+      "preparationSteps": [
+        "Pour out all liquid completely.",
+        "Rinse clean with water.",
+        "Remove metal lids (metal lids go into the Blue Cart).",
+        "Place whole into the Yellow Glass Bin without breaking."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "low",
+        "warning": "Inspect for cracks or chips before handling or repurposing."
+      }
+    },
+    {
+      "id": "RULE-GLASS-JAR",
+      "keywords": ["glass jar", "jam jar", "mason jar", "sauce jar", "pickle jar"],
+      "itemCanonical": "Glass Food Jar",
+      "material": "Soda-lime Glass with Metal Lid",
+      "condition": "Clean & rinsed",
+      "category": "glass_yellow",
+      "categoryName": "Yellow Bin — Glass Bottles & Jars",
+      "supportingSection": "Section 6.1: Domestic Glass Food Containers",
+      "pageNumber": 23,
+      "exactQuote": "All transparent and colored glass food jars (such as pasta sauce, jam, and pickle jars) are collected exclusively in the Yellow Glass Bin. Metal screw tops should be detached and sorted into the Blue Cart, as automated magnetic separators recover steel closures.",
+      "preparationSteps": [
+        "Scrape food remnants thoroughly.",
+        "Rinse clean.",
+        "Unscrew metal lid and place lid into the Blue Cart.",
+        "Place the glass jar into the Yellow Glass Bin."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": null
+      }
+    },
+    {
+      "id": "RULE-CARDBOARD-BOX",
+      "keywords": ["cardboard box", "corrugated box", "shipping box", "amazon box", "delivery box", "cereal box"],
+      "itemCanonical": "Corrugated Shipping / Packaging Box",
+      "material": "Corrugated Cardboard / Paperboard",
+      "condition": "Clean and dry",
+      "category": "recycling_blue",
+      "categoryName": "Blue Cart — Containers & Mixed Recycling",
+      "supportingSection": "Section 3.2: Corrugated Fiberboard & Paperboard",
+      "pageNumber": 8,
+      "exactQuote": "Cardboard boxes must be completely flattened and stripped of excessive plastic packaging inserts, foam peanuts, and air pillows prior to collection. Clean, unsoiled cardboard is recovered in the Blue Cart. Excessive packing tape does not need to be removed as pulping hydro-separators screen it out.",
+      "preparationSteps": [
+        "Remove all plastic bubble wrap, styrofoam peanuts, and contents.",
+        "Flatten the box completely so it lies flat.",
+        "Fold or cut down oversized boxes larger than 3 feet by 3 feet.",
+        "Place into the Blue Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": null
+      }
+    },
+    {
+      "id": "RULE-PIZZA-BOX",
+      "keywords": ["pizza box", "greasy pizza box", "food box with grease", "used pizza box"],
+      "itemCanonical": "Food-Soiled Pizza Box",
+      "material": "Grease-stained Corrugated Cardboard",
+      "condition": "Greasy / food-soiled",
+      "category": "organics_green",
+      "categoryName": "Green Cart — Organics & Food Scraps",
+      "supportingSection": "Section 5.4: Food-Soiled Paper & Compostable Packaging",
+      "pageNumber": 19,
+      "exactQuote": "Grease-soaked paperboard and pizza boxes cannot be recycled into pulp paper because food oils bond with fiber matrix during reprocessing. Grease-stained pizza boxes must be placed in the Green Organics Cart. If the top lid is completely clean of oil and cheese, it may be torn off and recycled in the Blue Cart.",
+      "preparationSteps": [
+        "Remove leftover crusts, dipping sauce cups, and wax parchment liners.",
+        "Check top lid: if completely clean and grease-free, you may tear it off and place it in the Blue Cart.",
+        "Place the greasy bottom portion directly into the Green Organics Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": false,
+        "hazardLevel": "medium",
+        "warning": "Soiled with food oils, dairy, and bacterial moisture; unsuitable for dry craft projects due to mold risk."
+      }
+    },
+    {
+      "id": "RULE-COFFEE-CUP",
+      "keywords": ["takeaway coffee cup", "coffee cup", "disposable paper cup", "paper coffee cup", "starbucks cup", "latte cup"],
+      "itemCanonical": "Takeaway Single-Use Coffee Cup",
+      "material": "Paperboard laminated with Polyethylene (PE) plastic liner",
+      "condition": "Empty",
+      "category": "general_waste_black",
+      "categoryName": "Black/Gray Cart — General Waste & Landfill",
+      "supportingSection": "Section 7.3: Poly-Coated Single-Use Paper Beverage Containers",
+      "pageNumber": 28,
+      "exactQuote": "Takeaway hot coffee cups feature a micro-thin polyethylene (PE) plastic interior barrier fused to bleached paperboard to prevent leaks. Standard municipal recycling hydropulpers cannot separate this plastic lining, causing pulping screen clogs. Consequently, takeaway coffee cups must be deposited in the Black/Gray General Waste Cart.",
+      "preparationSteps": [
+        "Empty remaining coffee or liquid into a sink.",
+        "Remove the plastic lid (check lid resin: #5 PP can enter Blue Cart; otherwise general waste).",
+        "Remove cardboard sleeve — clean cardboard sleeve goes into Blue Cart.",
+        "Deposit the coated paper cup body in the Black/Gray General Waste Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": "Ensure cup is rinsed and completely dried before repurposing to prevent odor or mildew."
+      }
+    },
+    {
+      "id": "RULE-SNACK-PACKET",
+      "keywords": ["snack packet", "chip bag", "crisp packet", "metallized pouch", "foil wrapper", "candy wrapper", "granola bar wrapper"],
+      "itemCanonical": "Multi-layer Metallized Snack Packet / Chip Bag",
+      "material": "Multi-material laminate (Polypropylene #5 + Vapor-deposited Aluminum Foil + Polyethylene)",
+      "condition": "Empty",
+      "category": "general_waste_black",
+      "categoryName": "Black/Gray Cart — General Waste & Landfill",
+      "supportingSection": "Section 7.1: Multi-Material Flexible Laminates & Metallized Film",
+      "pageNumber": 27,
+      "exactQuote": "Snack packets, potato chip bags, and metallic film confectionery wrappers are engineered by laminating paper, polypropylene plastic film, and micro-thin aluminum barrier layers together. Because these diverse material layers cannot be mechanically or thermally delaminated at municipal processing facilities, they must be disposed of in the General Waste Cart.",
+      "preparationSteps": [
+        "Empty all chip crumbs and food remnants completely.",
+        "Do not bundle inside cans or bottles.",
+        "Place into Black/Gray General Waste Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": "Wipe interior clean of salt and vegetable oils before using in creative packaging crafts."
+      }
+    },
+    {
+      "id": "RULE-PLASTIC-CONTAINER",
+      "keywords": ["plastic food container", "takeout plastic container", "clamshell container", "yogurt tub", "margarine tub", "plastic tub"],
+      "itemCanonical": "Rigid Plastic Food Container / Yogurt Tub (#5 PP)",
+      "material": "Polypropylene (#5 PP) or PET (#1)",
+      "condition": "Rinsed and free of food chunks",
+      "category": "recycling_blue",
+      "categoryName": "Blue Cart — Containers & Mixed Recycling",
+      "supportingSection": "Section 4.2: Rigid Polymer Tubs and Food Packaging",
+      "pageNumber": 13,
+      "exactQuote": "Clean plastic food tubs, dairy containers, and clear takeout clamshells bearing resin symbols #1, #2, or #5 are accepted in the Blue Recycling Cart. Items must be wiped or rinsed clean; containers with significant caked-on sauce or rotting food residue must be scraped clean or disposed in general waste to prevent contamination.",
+      "preparationSteps": [
+        "Scrape all food contents into the Green Organics Cart.",
+        "Rinse the plastic container with warm water.",
+        "Ensure plastic code #1, #2, or #5 is molded on the bottom.",
+        "Place loosely into the Blue Recycling Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": null
+      }
+    },
+    {
+      "id": "RULE-MILK-CARTON",
+      "keywords": ["milk carton", "juice carton", "tetra pak", "aseptic carton", "carton"],
+      "itemCanonical": "Gable-Top / Aseptic Milk & Beverage Carton",
+      "material": "Poly-coated Paperboard with Aluminum Layer",
+      "condition": "Empty and rinsed",
+      "category": "recycling_blue",
+      "categoryName": "Blue Cart — Containers & Mixed Recycling",
+      "supportingSection": "Section 3.4: Polycoat & Aseptic Beverage Cartons",
+      "pageNumber": 10,
+      "exactQuote": "Gable-top milk cartons and aseptic shelf-stable liquid packaging (such as almond milk or soup broth cartons) are processed via specialized carton repulping mills and are accepted in the Blue Recycling Cart. Empty completely, rinse thoroughly, and push straw inside or cap securely.",
+      "preparationSteps": [
+        "Pour out all liquid completely.",
+        "Rinse with cold water to eliminate milk odor.",
+        "Flatten carton slightly to save volume.",
+        "Leave plastic screw cap attached or screwed on tight.",
+        "Deposit in the Blue Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": null
+      }
+    },
+    {
+      "id": "RULE-NEWSPAPER",
+      "keywords": ["newspaper", "printed paper", "flyer", "magazine", "catalogue", "office paper"],
+      "itemCanonical": "Printed Newspaper / Office Paper",
+      "material": "De-inkable Cellulose Newsprint",
+      "condition": "Dry and clean",
+      "category": "recycling_blue",
+      "categoryName": "Blue Cart — Containers & Mixed Recycling",
+      "supportingSection": "Section 3.1: Newsprint & Mixed Graphical Paper",
+      "pageNumber": 7,
+      "exactQuote": "Newspapers, circulars, magazines, and plain office papers belong in the Blue Recycling Cart. Paper must be kept dry; paper that has become wet or moldy loses tensile strength and must be placed in the Green Organics Cart instead.",
+      "preparationSteps": [
+        "Keep clean and dry.",
+        "Remove plastic outer delivery bags or rubber bands.",
+        "Place loose in the Blue Cart (do not tie with plastic string)."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": null
+      }
+    },
+    {
+      "id": "RULE-TISSUE-PAPER",
+      "keywords": ["tissue paper", "used tissue", "paper towel", "kitchen paper", "napkin"],
+      "itemCanonical": "Used Facial Tissue / Kitchen Paper Towel",
+      "material": "Short-fiber wood pulp",
+      "condition": "Soiled",
+      "category": "organics_green",
+      "categoryName": "Green Cart — Organics & Food Scraps",
+      "supportingSection": "Section 5.3: Absorbent Soft Papers & Kitchen Towels",
+      "pageNumber": 18,
+      "exactQuote": "Paper towels, facial tissues, and paper napkins are composed of very short cellulose fibers that cannot be recycled into new paper. Because they absorb organic food matter and grease, clean or food-soiled tissues belong exclusively in the Green Organics Cart.",
+      "preparationSteps": [
+        "Ensure no cleaning chemical bleach, ammonia, or automotive fluids are soaked in the tissue.",
+        "Drop directly into the kitchen organics caddy or Green Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": false,
+        "hazardLevel": "medium",
+        "warning": "Hygiene item; unhygienic for crafts once used."
+      }
+    },
+    {
+      "id": "RULE-FOOD-SCRAPS",
+      "keywords": ["food scraps", "banana peel", "apple core", "vegetable peelings", "leftover food", "organic waste"],
+      "itemCanonical": "Raw or Cooked Food Scraps",
+      "material": "100% Biodegradable Organic Matter",
+      "condition": "Decomposing / wet",
+      "category": "organics_green",
+      "categoryName": "Green Cart — Organics & Food Scraps",
+      "supportingSection": "Section 5.1: Domestic Kitchen Food Waste Mandate",
+      "pageNumber": 17,
+      "exactQuote": "All kitchen food waste, including vegetable trimmings, fruit rinds, meat bones, and dairy residues, is strictly prohibited from regional landfills under municipal organic diversion bylaws. All food waste must be segregated into the Green Organics Cart for industrial high-temperature composting.",
+      "preparationSteps": [
+        "Remove stickers, plastic tags, rubber bands, and plastic packaging.",
+        "Place in compostable liner or wrap in newspaper.",
+        "Deposit in Green Organics Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": false,
+        "hazardLevel": "low",
+        "warning": "Decomposing biological matter; recommend backyard composting or municipal composting rather than craft projects."
+      }
+    },
+    {
+      "id": "RULE-TOOTHPASTE-TUBE",
+      "keywords": ["toothpaste tube", "lotion tube", "cosmetic squeeze tube", "ointment tube"],
+      "itemCanonical": "Laminated Toothpaste / Squeeze Cosmetic Tube",
+      "material": "Multilayer Aluminum Barrier Laminate (ABL) + Plastic",
+      "condition": "Spent",
+      "category": "general_waste_black",
+      "categoryName": "Black/Gray Cart — General Waste & Landfill",
+      "supportingSection": "Section 7.2: Complex Multi-Polymer Flexible Tubes",
+      "pageNumber": 27,
+      "exactQuote": "Standard commercial toothpaste tubes are manufactured with multiple fused layers of polyethylene plastic surrounding an aluminum core foil, designed to preserve flavoring and paste consistency. Due to multi-layer bonding and remaining paste paste residue, tubes cannot be recycled kerbside and must be placed in the Black/Gray General Waste Cart unless returned to a participating brand takeback depot.",
+      "preparationSteps": [
+        "Squeeze out as much residual paste as possible.",
+        "Leave cap screwed on.",
+        "Dispose in the Black/Gray General Waste Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": false,
+        "hazardLevel": "low",
+        "warning": "Difficult to clean interior hygiene residue; not recommended for craft reuse unless thoroughly slit and sanitized."
+      }
+    },
+    {
+      "id": "RULE-SHAMPOO-BOTTLE",
+      "keywords": ["shampoo bottle", "conditioner bottle", "body wash bottle", "detergent bottle", "soap bottle"],
+      "itemCanonical": "Rigid Plastic Shampoo / Detergent Bottle (#2 HDPE)",
+      "material": "High-Density Polyethylene (#2 HDPE)",
+      "condition": "Empty and rinsed",
+      "category": "recycling_blue",
+      "categoryName": "Blue Cart — Containers & Mixed Recycling",
+      "supportingSection": "Section 4.1: Rigid Plastics (#2 HDPE Bottles)",
+      "pageNumber": 12,
+      "exactQuote": "High-density polyethylene (#2 HDPE) cosmetic and detergent bottles are prime high-value recycling commodities and belong in the Blue Recycling Cart. Bottles must be rinsed out to remove soap surfactants. Pump dispensers with internal metal springs must be unscrewed and discarded into general waste; standard plastic caps should be replaced on the bottle.",
+      "preparationSteps": [
+        "Rinse bottle with warm water to clear soap residues.",
+        "If equipped with a mechanical pump dispenser with metal spring, remove the pump and discard in general waste.",
+        "Replace screw cap onto the rinsed bottle.",
+        "Place into Blue Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": null
+      }
+    },
+    {
+      "id": "RULE-DELIVERY-PACKAGING",
+      "keywords": ["bubble wrap", "air pillows", "plastic mailer", "delivery packaging", "padded envelope with plastic"],
+      "itemCanonical": "Polyethylene Air Pillows & Bubble Wrap",
+      "material": "Low-Density Polyethylene (#4 LDPE Film)",
+      "condition": "Intact / popped",
+      "category": "general_waste_black",
+      "categoryName": "Black/Gray Cart — General Waste & Landfill",
+      "supportingSection": "Section 4.4: Soft Plastics, Stretch Films & Cushioning",
+      "pageNumber": 16,
+      "exactQuote": "Soft plastic films, bubble wraps, and air cushions are strictly forbidden in curbside Blue Carts because thin film plastics wrap around rotating disc screens at the Material Recovery Facility (MRF), triggering facility shutdowns. Soft plastics may be returned to dedicated grocery return depots, or disposed of in the Black/Gray General Waste Cart.",
+      "preparationSteps": [
+        "Puncture and deflate air pillows.",
+        "Separate from paper labels if possible.",
+        "Take to supermarket film recycling bin, or place into Black/Gray General Waste Cart."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": true,
+        "hazardLevel": "none",
+        "warning": "Excellent for household packing reuse or insulation cushions."
+      }
+    },
+    {
+      "id": "RULE-BATTERY",
+      "keywords": ["battery", "alkaline battery", "aa battery", "aaa battery", "lithium battery", "rechargeable battery", "cell phone battery", "car battery"],
+      "itemCanonical": "Dry Cell Household Battery (Alkaline / Lithium / NiMH)",
+      "material": "Chemical Electrolyte, Zinc, Manganese, Lithium, Heavy Metals",
+      "condition": "Spent / corroded",
+      "category": "hazardous_depot",
+      "categoryName": "Hazardous Waste Depot & Specialized Drop-off",
+      "supportingSection": "Section 9.1: Universal Hazardous Waste — Household Batteries",
+      "pageNumber": 34,
+      "exactQuote": "Batteries of all chemistries (Alkaline, Lithium, Button Cell, and Rechargeable) are strictly banned from curbside landfill carts and curbside recycling carts under Municipal By-Law 88-B. Mechanical compaction in collection trucks frequently causes lithium thermal runaway fires. Batteries must be taken to certified depot drop-offs or municipal electronics depots.",
+      "preparationSteps": [
+        "Tape both electrical terminals (positive and negative ends) with clear tape to prevent sparking.",
+        "Do not store in metal containers.",
+        "Keep dry and out of reach of children.",
+        "Deliver to your nearest hardware store, library, or municipal battery recycling drop box."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": false,
+        "hazardLevel": "critical",
+        "warning": "DANGER: Contains toxic caustic chemicals and heavy metals; risk of thermal runaway, explosion, and chemical burn. Casual DIY repurposing is strictly prohibited."
+      }
+    },
+    {
+      "id": "RULE-ELECTRONIC-ACCESSORY",
+      "keywords": ["electronic accessory", "charger", "charging cable", "usb cable", "broken mouse", "headphones", "power adapter"],
+      "itemCanonical": "Small Consumer Electronic Accessory / Cable",
+      "material": "Copper Wire, PVC Sheathing, Circuit Board Components",
+      "condition": "Broken / obsolete",
+      "category": "electronics_depot",
+      "categoryName": "E-Waste / Electronics Recovery Depot",
+      "supportingSection": "Section 8.2: Small Consumer Electronic Peripherals",
+      "pageNumber": 31,
+      "exactQuote": "Tangled electrical cords, chargers, small electronic components, and adapters contain precious copper and gold traces but pose severe tangling hazards for curbside sorting machinery. Under Extended Producer Responsibility regulations, all electronics and cords must be delivered to an authorized E-Waste Depot.",
+      "preparationSteps": [
+        "Bundle cords securely with a twist tie.",
+        "Remove any disposable batteries.",
+        "Drop off at any certified electronics recycling depot or municipal drop station."
+      ],
+      "safetyAssessment": {
+        "isReuseSafe": false,
+        "hazardLevel": "high",
+        "warning": "Electrical hazard if plugged in. Do not strip or burn wires. DIY electronics projects should only be undertaken by qualified individuals with proper bench testing tools."
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why can't coffee cups go in the Blue Cart if they look like paper?",
+      "a": "Takeaway coffee cups have an invisible polyethylene plastic liner laminated to the paperboard so hot coffee doesn't leak out. Paper pulping facilities cannot easily dissolve this plastic layer away from the paper, resulting in clogs in the paper repulping machinery."
+    },
+    {
+      "q": "Should plastic caps stay on or come off plastic bottles?",
+      "a": "In our regional program, caps should be screwed tightly back onto the empty bottle. Modern float-sink tanks automatically separate the polypropylene (#5) caps from the PET (#1) bottle bodies."
+    },
+    {
+      "q": "What happens to broken glass in recycling?",
+      "a": "When glass breaks inside the mixed recycling truck, tiny shards embed themselves into cardboard and paper fibers. This renders entire truckloads of paper unrecyclable and damages conveyor belts. That is why glass has its own designated Yellow Bin or drop-off depot."
+    }
+  ]
+}
